@@ -1,0 +1,29 @@
+{
+  "name": "fs-pet-shop",
+  "version": "1.0.0",
+  "description": "This is a multi-day assignment split into the following parts. Your task is to complete each part's assignment, one at a time, before moving on to the next part.",
+  "main": "expressserver.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatieAJenkins/fs-pet-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatieAJenkins/fs-pet-shop/issues"
+  },
+  "homepage": "https://github.com/KatieAJenkins/fs-pet-shop#readme"
+}
